@@ -16,8 +16,8 @@
 
 1. Клонируйте репозиторий:
    ```sh
-   git clone <ссылка на репозиторий>
-   cd <название репозитория>
+   git clone https://github.com/shulc30/assistant_test.git
+   cd assistant_test
    ```
 2. Создайте виртуальное окружение и активируйте его:
    ```sh
